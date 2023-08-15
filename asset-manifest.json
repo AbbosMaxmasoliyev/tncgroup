@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/tncgroup/static/css/main.77258153.css",
+    "main.js": "/tncgroup/static/js/main.4abb2863.js",
+    "static/js/787.cd25e17a.chunk.js": "/tncgroup/static/js/787.cd25e17a.chunk.js",
+    "static/media/video.mp4": "/tncgroup/static/media/video.ebec216aa8210d10263c.mp4",
+    "static/media/zarmina.png": "/tncgroup/static/media/zarmina.a772c35c52f4ea5cda38.png",
+    "static/media/payline.png": "/tncgroup/static/media/payline.d40e1ced8bd7def12ab7.png",
+    "static/media/portfolio.png": "/tncgroup/static/media/portfolio.fdbb78e3668bbec6efc4.png",
+    "static/media/bolling.png": "/tncgroup/static/media/bolling.d43592be720be887811b.png",
+    "static/media/crm.png": "/tncgroup/static/media/crm.e37294cb003c33e22620.png",
+    "static/media/partner.png": "/tncgroup/static/media/partner.6c034f50c4ea8d45ba5c.png",
+    "static/media/PTSans-Bold.ttf": "/tncgroup/static/media/PTSans-Bold.610bc32a7e32c292ce59.ttf",
+    "static/media/PTSans-Regular.ttf": "/tncgroup/static/media/PTSans-Regular.77e92507394e2309d837.ttf",
+    "static/media/postnobillscolombo-regular.ttf": "/tncgroup/static/media/postnobillscolombo-regular.7718eaf83a3edefc8a44.ttf",
+    "static/media/Group.svg": "/tncgroup/static/media/Group.e373d82466cbe5ad33767cadede993d9.svg",
+    "static/media/Group-2.svg": "/tncgroup/static/media/Group-2.7e3797b577697fb1fd85534268df5e93.svg",
+    "static/media/Group-1.svg": "/tncgroup/static/media/Group-1.61eced1ba32e35fc4d7516fd2d9b54a8.svg",
+    "static/media/dots.svg": "/tncgroup/static/media/dots.420e90e3edf5875ae8eb80ac45f55c64.svg",
+    "static/media/Group-3.svg": "/tncgroup/static/media/Group-3.95ae5a74f54e4ebcfbe45689d5f79c70.svg",
+    "static/media/mock.svg": "/tncgroup/static/media/mock.c74cf2072c792b5c13db5618e76eee5c.svg",
+    "static/media/4552606_check_computer_result_website_icon 1.svg": "/tncgroup/static/media/4552606_check_computer_result_website_icon 1.1f4c38b4088bf64dd7ae889cb6b3589d.svg",
+    "static/media/logo.svg": "/tncgroup/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/2703080_cart_basket_ecommerce_shop_icon 1.svg": "/tncgroup/static/media/2703080_cart_basket_ecommerce_shop_icon 1.3195d6bdfddccd2387194ffd968650e4.svg",
+    "index.html": "/tncgroup/index.html",
+    "main.77258153.css.map": "/tncgroup/static/css/main.77258153.css.map",
+    "main.4abb2863.js.map": "/tncgroup/static/js/main.4abb2863.js.map",
+    "787.cd25e17a.chunk.js.map": "/tncgroup/static/js/787.cd25e17a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77258153.css",
+    "static/js/main.4abb2863.js"
+  ]
+}
