@@ -1,0 +1,77 @@
+{
+    "header":{
+        "about":"About",
+        "portfolio":"Portfolio",
+        "services":"Services",
+        "contactUs":"Contact Us",
+        "title":"Leadership in Creativity",
+        "subtitle":" Businesses will need to adapt to new technologies and democratizing forces, becoming master enablers and influencers.",
+        "message":"Message"
+    }, 
+    "portfolio":{
+        "all":"All",
+        "web":"Web",
+        "branding":"Branding",
+        "mobile":"Mobile"
+
+    },
+    "services":{
+        "site":"Web site",
+        "siteSubtitle":"TNC internet marketing agency cooperates in creating modern websites and online stores for your business. Our team, using the latest technology, strives to see the best results in communicating your ideas and goals to all users.",
+        "smm":"SMM",
+        "smmSubtitle":"Want to boost your brand awareness and reach new customers? Social media marketing is the way to go! Learn how to create engaging content and grow your online presence with our expert tips and tricks.",
+        "online":"Online Shopping",
+        "onlineSubtitle":"You have a great opportunity to create an online shopping magazine that will inspire and delight your customer. You can showcase the latest trends, tips and deals in a captivating way. You have the skills and the passion to make it happen. Go for it!",
+        "branding":"Branding",
+        "brandingSubtitle":"Looking for a catchy and original brand name for your business? Do you want to stand out from the crowd and attract more customers? If so, you need TNC Internet Marketing Agency.",
+        "crm":"CRM",
+        "crmSubtitle":"CRM systems are great tools for managing customer relationships and increasing sales. They help you organize and analyze your prospects and customers. With a CRM system, you can improve your marketing, service and loyalty strategies.",
+        "seo":"SEO",
+        "seoSubtitle":"SEO (Search Engine Optimization) is the process of increasing the visibility and importance of your website for search engines. This will help you drive more organic traffic, increase conversions and increase your online presence."
+
+    },
+
+    "specialists":{
+        "title":"How do you deliver service?",
+        "proMenejer":"Project Manager",
+        "proMenejerSubtitle":"They are responsible for the planning, organization, implementation, monitoring and completion of projects.",
+        "specialists":"Specialists",
+        "specialistsSubtitle":"Specialists in design, marketing, programming",
+        "saleMenejer":"Sales Manager",
+        "saleMenejerSubtitle":"Design, Marketing, Programming Specialists"
+    },
+    "message":{
+        "title":"Send message",
+        "pagesName":"Number of pages",
+        "designName":"Design level",
+        "simple":"Simple",
+        "high":"High",
+        "special":"Special",
+        "responsiveName":"Responsive",
+        "no":"No",
+        "yes":"Yes",
+        "cms":"Site Management System (CMS)",
+        "standart":"Standard",
+        "possibilities":"Complex possibilities",
+        "languages":"Number of site languages",
+        "languagesSubtitle":"(Uzbek, Russian, English)",
+        "shopping":"Online store option",
+        "saleBasket":"Shopping cart",
+        "saleBasketPlus":"Shopping Cart + Payme/Click",
+        "copyright":"Copyrighting",
+        "copyrightSubtitle":"(Copywriting price is given for web pages)",
+        "copyPageTF":"2-5 pages",
+        "copyPageFT":"5-10 pages",
+        "seo":"SEO service",
+        "seoSubtitle":"(Getting your site up on Google and making it profitable",
+        "seoPhrase40":"40 key phrases",
+        "seoPhrase90":"90 key phrases",
+        "send":"Send"
+
+    },
+    "footer":{
+        "info":" Top notch co group is a leading provider of innovative solutions for various industries. They offer high-quality products and services that meet the needs and expectations of their clients. With a teamof experts and a global network, they deliver excellence and value in every project.",
+        "reserved":"All rights reserved."
+    }
+    
+}

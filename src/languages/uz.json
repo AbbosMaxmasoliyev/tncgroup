@@ -1,0 +1,72 @@
+{
+  "header": {
+    "about": "Biz haqimizda",
+    "portfolio": "Portfolio",
+    "services": "Xizmatlar",
+    "contactUs": "Biz bilan bog'laning",
+    "title": "Ilohiylikdagi Rivojlanish",
+    "subtitle": "Bizneslar yangi texnologiyalarga va demokratlashtiruvchi kuchlarga moslashishlari, mahoratli imkoniyat yaratuvchilar va ta'sirchilar bo'lishlari kerak.",
+    "message": "Xabar"
+  },
+  "portfolio": {
+    "all": "Hammasi",
+    "web": "Veb",
+    "branding": "Brendlashtirish",
+    "mobile": "Mobil"
+  },
+  "services": {
+    "site": "Veb-sayt",
+    "siteSubtitle": "TNC internet marketing agentligi biznesingiz uchun modern veb-saytlar va onlayn do'konlar yaratishda hamkorlik qiladi. Jamoa, eng so'nggi texnologiyalardan foydalangan holda, fikrlaringiz va maqsadlaringizni barcha foydalanuvchilarga yetkazishning eng yaxshi natijalarini ko'rishga intiladi.",
+    "smm": "SMM",
+    "smmSubtitle": "Brendingizni taniqli qilish va yangi mijozlarga yetishishni istaysizmi? Ijtimoiy tarmoq marketingi - buning yo'li! Yaratuvchi kontent yaratish va onlayn mavjudligingizni o'stirish uchun ekspert maslahatlari va uslublari bilan tanishing.",
+    "online": "Onlayn Savdo",
+    "onlineSubtitle": "Sizda mijozingizni ilhomlantiradigan onlayn savdo magazini yaratish uchun ajoyib imkoniyatingiz mavjud. Siz eng so'nggi tendentsiyalarni, maslahatlar va takliflarni o'ziga xos usulda namoyish etishingiz mumkin. Bu haqiqiy qilish uchun ko'nikmalar va jazbaatga ega bo'lishingiz kerak. Sizning uchun omadli bo'lsin!",
+    "branding": "Brendlashtirish",
+    "brandingSubtitle": "Biznesingiz uchun tanish va original brend nomi qidirayotganmisiz? Jamoatingizdan ajratib tashlang va ko'proq mijozlarni jalb qiling? Agar ha, unda TNC Internet Marketing Agency kerak.",
+    "crm": "CRM",
+    "crmSubtitle": "CRM tizimlari mijoz munosabatlarini boshqarish va savdo o'simliklarini oshirish uchun ajoyib vositalardir. Ular sizga e'tirof qilish va mijozlaringizni tahlil qilishga yordam beradi. CRM tizimi bilan marketingingizni, xizmatlaringizni va mazmunlilik strategiyalaringizni yaxshilashingiz mumkin.",
+    "seo": "SEO",
+    "seoSubtitle": "SEO (Qidiruv Muhiti Optimizatsiyasi) - bu veb-saytingizni qidiruv tizimlari uchun ko'rinadiganlik va ahamiyatini oshirish jarayoni. Bu sizga organik trafikni oshirish, konversiyalarni oshirish va onlayn mavjudligingizni oshirishga yordam beradi."
+  },
+  "specialists": {
+    "title": "Xizmatni qanday yetkazasiz?",
+    "proMenejer": "Loyiha Boshqaruvchisi",
+    "proMenejerSubtitle": "Ular loyihalarni rejalashtirish, tashkil etish, amalga oshirish, monitoring va yakunlanishiga javob berganlar.",
+    "specialists": "Mutaxassislar",
+    "specialistsSubtitle": "Dizayn, marketing, dasturlash sohasida mutaxassislar",
+    "saleMenejer": "Sotish Boshqaruvchisi",
+    "saleMenejerSubtitle": "Dizayn, marketing, dasturlash sohasida mutaxassislar"
+  },
+  "message": {
+    "title":"Xabar Yuborish",
+    "pagesName": "Sahifalar soni",
+    "designName": "Dizayn darajasi",
+    "simple": "Oddiy",
+    "high": "Yuqori",
+    "special": "Maxsus",
+    "responsiveName": "Moslashtiruvchi",
+    "no": "Yo'q",
+    "yes": "Ha",
+    "cms": "Veb-sayt boshqaruv tizimi (CMS)",
+    "standart": "Standart",
+    "possibilities": "Murakkab imkoniyatlar",
+    "languages": "Veb-sayt tillari soni",
+    "languagesSubtitle": "(O'zbekcha, Ruscha, Inglizcha)",
+    "shopping": "Onlayn do'kon imkoniyati",
+    "saleBasket": "Xarid savati",
+    "saleBasketPlus": "Xarid savati + Payme/Click",
+    "copyright": "Matn yozish",
+    "copyrightSubtitle": "(Kopirayting narxi veb-sahifalar uchun beriladi)",
+    "copyPageTF": "2-5 sahifa",
+    "copyPageFT": "5-10 sahifa",
+    "seo": "SEO xizmati",
+    "seoSubtitle": "(Veb-saytingizni Google'da joylashtirish va unga foyda olish",
+    "seoPhrase40": "40 kalit so'z",
+    "seoPhrase90": "90 kalit so'z",
+    "send":"Jo'natish"
+  },
+  "footer": {
+    "info": "Top notch co group - turli sohalarga mo'ljallangan innovatsion yechimlarni taklif etuvchi lider ta'minotchi. Ular mijozlarining talablari va umidlari bilan mos keladigan yuqori sifatli mahsulot va xizmatlarni taklif qilishadi. Mutaxassis jamoa va global tarmoq bilan, ular har bir loyihada a'loqa va qiymatni taqdim etishadi.",
+    "reserved": "Barcha huquqlar himoyalangan."
+  }
+}

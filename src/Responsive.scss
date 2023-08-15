@@ -1,0 +1,237 @@
+@media only screen and (max-width: 1500px) {
+  .backVideo {
+    height: 100vh;
+    video {
+      height: 100vh;
+      width: auto;
+      box-sizing: border-box;
+      position: absolute;
+      left: 0;
+    }
+  }
+
+  .portfolio {
+    .cards {
+      grid-template-columns: repeat(2, 45%);
+    }
+  }
+
+  .message {
+    .page {
+      width: 90%;
+      height: 100px;
+
+      display: grid;
+      align-items: center;
+      grid-template-columns: 300px 700px;
+    }
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .message {
+    .page {
+      width: 90%;
+      height: 220px;
+
+      display: grid;
+      align-items: center;
+      justify-content: space-around;
+      grid-template-columns: 90%;
+      text-align: center;
+
+      .info {
+        justify-self: center;
+        width: 95%;
+
+        p.title {
+          width: 100%;
+          text-align: center;
+        }
+      }
+    }
+
+    .information {
+      position: absolute;
+      left: -70px;
+      width: 150px;
+      text-align: center;
+      top: -80px;
+      font-size: 20px;
+    }
+  }
+
+  footer {
+    grid-template-columns: 250px 250px;
+    justify-content: space-around;
+    grid-template-areas:
+      "logo menu"
+      "logo contact"
+      "design design";
+
+    dl {
+      min-height: 150px;
+    }
+  }
+}
+
+@media only screen and (max-width: 1000px) {
+  nav {
+    width: 90%;
+    justify-content: space-between;
+
+    .resNavbar {
+      display: block;
+    }
+
+    .links {
+      position: fixed;
+      display: flex;
+      flex-direction: column;
+      transform: translateX(calc(-100% - 40px));
+      padding: 0 12px;
+      box-sizing: border-box;
+      background-color: #011627fb;
+      backdrop-filter: blur(4px);
+      transition: all 0.75s;
+      height: 100vh;
+      width: 100vw;
+      left: 0;
+      top: 0;
+      z-index: 9;
+    }
+
+    .responsive {
+      transition: all 0.75s;
+
+      transform: translateX(0%);
+    }
+    .responsiveBtn {
+      display: block;
+    }
+  }
+
+  .showcase {
+    .info {
+      width: 90%;
+      text-align: left;
+      height: 450px;
+      position: relative;
+
+      h1 {
+        color: #fff;
+        font-family: Post No Bills Colombo;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        letter-spacing: -2.6px;
+        max-width: 801px;
+        letter-spacing: 1.5px;
+      }
+
+      p.subtitle {
+        font-size: 20px;
+        line-height: 130%;
+      }
+
+      .tncsvg {
+        width: 250px;
+        position: absolute;
+        bottom: -50px;
+        right: 0;
+        z-index: -1;
+
+        img {
+          width: 250px;
+          filter: brightness(0) hue-rotate(45);
+        }
+      }
+    }
+  }
+
+  .portfolio {
+    .cards {
+      grid-template-columns: repeat(2, 400px);
+    }
+  }
+
+
+  .service{
+    .cards{
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+
+      .card{
+        width: 90%;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .service .cards .card {
+    .top {
+      p.title {
+        font-size: 20px;
+      }
+    }
+  }
+  .service .cards .card .info {
+    font-size: 16px;
+  }
+  .portfolio {
+    .cards {
+      grid-template-columns: auto;
+      justify-content: center;
+    }
+  }
+
+  .message .page {
+    .subtitle {
+      font-family: Montserrat;
+      font-size: 14px;
+    }
+    .information {
+      position: absolute;
+      left: -50px;
+      width: 100px;
+      text-align: center;
+      top: -60px;
+      font-size: 16px;
+    }
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  footer {
+    grid-template-columns: 90%;
+    justify-content: space-around;
+    grid-template-areas:
+      "logo"
+      "menu"
+      "contact"
+      "design ";
+
+    dl {
+      min-height: 150px;
+      text-align: center;
+    }
+  }
+  .portfolio {
+    align-items: center;
+    align-items: center;
+    grid-template-columns: 90%;
+    .cards {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  }
+  .portItem {
+    max-width: 90%;
+    width: 420px;
+    height: 283px;
+  }
+}
